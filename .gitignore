@@ -1,0 +1,21 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log
+
+# dotenv
+.env
+.env.local
+.env.*.local
+
+# build outputs
+dist/
+build/
+.vite/
+
+# OS/editor junk
+.DS_Store
+.idea/
+.vscode/
+*.log
