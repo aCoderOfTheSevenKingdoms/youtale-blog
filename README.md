@@ -26,7 +26,7 @@ Users can sign up, sign in, create blogs, and read blogs from others.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/youtale-blog.git
+git clone https://github.com/aCoderOfTheSevenKingdoms/youtale-blog.git
 cd youtale-blog
 
 ```
@@ -55,10 +55,15 @@ npm run dev
 🖼️ Features:
 
 🔐 JWT-based authentication
+
 ✍️ Create, read, and view blogs
+
 📅 Blog last modified date
+
 📱 Responsive UI with TailwindCSS
+
 ⚡ Fast builds with Vite
+
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
